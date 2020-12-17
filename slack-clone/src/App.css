@@ -1,0 +1,9 @@
+body {
+  --slack-color: #3f0f40;
+  overflow-y: inherit;
+}
+
+.app__body {
+  display: flex;
+  height: 120vh;
+}
